@@ -1,0 +1,107 @@
+body {
+    background: #E9EBEE;
+    align-items: center;
+    font-family: Tahoma;
+}
+
+#extra {
+    color: #3f4694;
+}
+#header {
+    background: #3f4694;
+}
+#openitheader {
+    position: relative;
+    height: 80px;
+    color: #3f4694;
+    background: #3f4694;
+}
+#signup {
+    padding: 6;
+    background: #42B72A;
+    border: 0;
+    margin-top: 35px;
+    margin-left: 200px;
+    color: white;
+    -webkit-transition: backgound .2s ease;
+    -moz-transition: background .2 ease;
+    -o-transition: backgroumd .2s ease;
+    width: 69px;
+    border-radius: 2;
+    cursor: pointer;
+}
+#container {
+    background: white;
+    margin-top: 78px;
+    width: 536px;
+    border: 1;
+    border-left-style: solid;
+    border-bottom-style: solid;
+    border-right-style: solid;
+    border-top-style: solid;
+    border-color: 4080FF;
+    height: 38px;
+    margin-left: 196px;
+    border-radius: 4;
+    border-left-width: 45px;
+    text-justify: inter-cluster;
+}
+#must {
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: 15px;
+}
+
+#login {
+    width: 580px;
+    background: white;
+    text-align: center;
+    height: 300px;
+    top: 400px;
+    margin-top: 50px;
+    margin-left: 196;
+    color: #3F4694;
+}
+#username {
+    border: 2;
+    height: 35;
+    width: 300;
+    border-radius: 2;
+}
+#password {
+    border: 2;
+    height: 35;
+    width: 300;
+    border-radius: 2;
+}
+#line {
+    width: 225;
+    color: #D3D6DB;
+    background: #D3D6DB;
+}
+#loginbtn {
+    padding: 10;
+    background: #3F4694;
+    border: 0;
+    color: white;
+    width: 300;
+    border-radius: 2px;
+}
+#it {
+    width: 200;
+    margin-left: 10;
+    margin-top: 2;
+}
+a {
+    color: #3f4694;
+    font-size: 15px;
+}
+@media screen and(max-width:579px){
+#extra {
+    width: 100%;
+    height: 100%;
+}
+
+
+
+}
